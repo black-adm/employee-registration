@@ -1,0 +1,6 @@
+﻿services:
+  employee.management.api:
+    image: employee.management.api
+    build:
+      context: .
+      dockerfile: Employee.Management.Api/Dockerfile

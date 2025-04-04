@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "A5gn3iNPKmI=",
+  "success": true,
+  "projectFilePath": "/home/blackadm/www/backend/dotnet/employee-registration/src/Employee.Management/Employee.Management.Domain/Employee.Management.Domain.csproj",
+  "expectedPackageFiles": [
+    "/home/blackadm/.nuget/packages/mongodb.bson/3.3.0/mongodb.bson.3.3.0.nupkg.sha512",
+    "/home/blackadm/.nuget/packages/system.memory/4.5.5/system.memory.4.5.5.nupkg.sha512",
+    "/home/blackadm/.nuget/packages/system.runtime.compilerservices.unsafe/5.0.0/system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "/home/blackadm/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.3/microsoft.aspnetcore.app.ref.9.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
